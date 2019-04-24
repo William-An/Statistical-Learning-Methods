@@ -1,2 +1,4 @@
 # Statistical-Learning-Methods
-Repo for statistical learning methods
+1. [ ] Perceptron
+2. [ ] kNN
+3. [ ] Naive Bayes
